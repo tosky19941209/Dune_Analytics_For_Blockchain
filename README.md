@@ -3,10 +3,7 @@
 ![Alt text](./dune-buggy.svg) -->
 
 <h1 align="center">
-  <br>
-  <img src="./assets/dune-buggy.svg" alt="Dunebuggy" width="300" height="225">
-  <br>
-  <div style="sans-serif"><b>Dunebuggy</b></p>
+  <div style="sans-serif"><b>Dune Analytics with Python</b></p>
 </h1>
 
 <div align="center">
@@ -28,7 +25,7 @@ pip install dunebuggy
 
 ## Getting started
 
-### Retrieving a public query
+### Retrieving a public query from Dune platform
 
 To retrieve a query, all we'll need is the `query_id` for the public query we're interested in. In the below example we can take a look at the popular ["Custom NFT Floor Tracker" query by @smaroo](https://dune.com/queries/83579) (The `query_id` below can be found in the URL).
 
